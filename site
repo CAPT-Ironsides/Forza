@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My Forza Horizon 5 Gallery</title>
+  <style>
+    body { font-family: sans-serif; background: #111; color: #eee; text-align: center; }
+    img { width: 300px; margin: 10px; border-radius: 10px; box-shadow: 0 0 10px #444; }
+  </style>
+</head>
+<body>
+  <h1>My Forza Horizon 5 Screenshots</h1>
+  <p>Click to view full size</p>
+  <a href="images/car1.jpg" target="_blank"><img src="images/car1.jpg" alt="Car 1"></a>
+  <a href="images/car2.jpg" target="_blank"><img src="images/car2.jpg" alt="Car 2"></a>
+  <!-- Add more images here -->
+</body>
+</html>
